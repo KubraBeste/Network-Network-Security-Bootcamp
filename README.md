@@ -44,3 +44,6 @@ Serverlara sadece verdikleri servisportundan ulasilmali
 2.End device lara DNS adresleri yazıldı.
 
 3.Routerlara sadece udp 53 ve tcp 80 portlarından erişim olacak şekilde access-list komutları yazıldı.
+
+
+Ayrıntılı bilgiler için sunum dosyasına bakabilirsiniz.
